@@ -1,3 +1,4 @@
-# My APP
+# 2019.12.30
 
-Create your first React App
+- reactJS
+- movie list
